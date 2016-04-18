@@ -1,0 +1,12 @@
+{
+    "dbhost" : "127.0.0.1",
+    "dbuser" : "root",
+    "dbpass" : "",
+    "dbname" : "comet",
+    
+    "hotelname": "Habbo",
+    "slogan"   : "Build your room and meet new friends",
+    "lang"     : "dutch",
+    
+    "https" : false
+}

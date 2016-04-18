@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Habnode login</title>
+    </head>
+    <form method="post">
+        <input type="text" name="log_username" />
+        <input type="password" name="log_password" />
+        <input type="submit" value="Login" />
+    </form>
+</html>
+<%if (error) { %>
+Fout: <%= error %>
+<% } %>

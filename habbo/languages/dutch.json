@@ -1,0 +1,14 @@
+{
+    "reg_err": {
+        "pwRepeat" : "Wachtwoorden zijn niet gelijk",
+        "pwLength" : "Wachtwoord is te kort",
+        "userExists" : "Deze naam word al door iemand anders gebruikt",
+        "userAllowed" : "Deze naam is niet toegestaan",
+        "emailAllowed" : "Voor aub een geldig Email adress in"
+    },
+    
+    "log_err" : {
+        "isBanned" : "Je bent helaas verbannen",
+        "loginFailed" : "Gebruikersnaam of wachtwoord verkeerd"
+    }
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Reg</title>
+    </head>
+    <body>
+        <form method="post">
+            Naam:<input type="text" name="reg_username" /><br>
+            Wachtwoord<input type="password" name="reg_password" /><br>
+            Herhaal Wachtwoord<input type="password" name="reg_password_rep" /><br>
+            Email<input type="text" name="reg_email" /><br>
+            <input type="submit" value="Maak aan!" />
+        </form>
+    </body>
+</html>
+<%if (error) { %>
+Fout: <%= error %>
+<% } %>
